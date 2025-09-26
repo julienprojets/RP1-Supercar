@@ -1,0 +1,7 @@
+Bonjour,
+
+Dans ce document, vous trouverez 4 dossiers.  Avant d'essayer d'exécuter l'un d'entre eux, veuillez ajouter le contenu du dossier Admin 2 dans le dossier Admin, puis tout le contenu du dossier Client 2 dans le dossier Client.   Sinon, vous risquez de rencontrer des erreurs sur le site web.  
+
+Cette mesure a été prise pour faciliter le processus de téléchargement via GitHub.  
+
+Merci !  
