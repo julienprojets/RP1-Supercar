@@ -1,0 +1,50 @@
+/* Start Footer 
+footer {
+    background-color: #101010;
+    color: #E5E4E2;
+    text-align: center;
+    padding: 45px;
+    width: 100%;
+}
+
+footer a {
+    display: inline-block;
+    text-decoration: none;
+    color: #E5E4E2;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+footer a:hover {
+    border: 1px solid rgb(207, 212, 178);
+    color: crimson;
+}
+
+End Footer */
+
+
+ /* Start Footer */
+ footer {
+    background-color: #f2f2f2;
+    color: #101010;
+    text-align: center;
+    padding: 45px;
+    width: 100%;
+}
+
+footer a {
+    display: inline-block;
+    text-decoration: none;
+    color: #101010;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+footer a:hover {
+    border: 1px solid rgb(207, 212, 178);
+    color: crimson;
+}
+
+/* End Footer */
