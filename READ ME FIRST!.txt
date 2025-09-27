@@ -1,0 +1,20 @@
+Bonjour,
+
+Dans ce document, vous trouverez plusieurs dossiers.  Avant d'essayer d'exécuter l'un d'entre eux,
+veuillez ajouter le contenu du dossier Admin 2 dans le dossier Admin. Puis, tout le contenu du dossier 
+Client 2 dans le dossier Client.  Sinon, vous risquez de rencontrer des erreurs sur le site web.  
+
+Cette mesure a été prise pour faciliter le processus de téléchargement via GitHub.  
+
+Merci!  
+-----------------      -----------------      -----------------      -----------------      -----------------      -----------------      
+Hello,
+
+In this document, you will find several folders.  Before attempting to run any of them,
+please add the contents of the Admin 2 folder to the Admin folder. Then, add all the contents of the 
+Client 2 folder to the Client folder.  Otherwise, you may encounter errors on the website.  
+
+This measure has been taken to facilitate the uploading process via GitHub.  
+
+Thank you!  
+-----------------      -----------------      -----------------      -----------------      -----------------      -----------------    
